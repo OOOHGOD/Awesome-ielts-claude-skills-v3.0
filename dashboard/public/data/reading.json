@@ -1,0 +1,29 @@
+[
+  {
+    "data": {
+      "type": "reading",
+      "date": "2026-04-22",
+      "passage": "The Impact of AI on Education",
+      "total_questions": 13,
+      "correct": 9,
+      "score": 7,
+      "errors_by_type": {
+        "tfng": 2,
+        "matching": 1,
+        "completion": 1
+      },
+      "synonyms_extracted": [
+        {
+          "question": "significant",
+          "passage": "substantial"
+        },
+        {
+          "question": "decline",
+          "passage": "deteriorate"
+        }
+      ],
+      "_file": "2026-04-22-passage-001.md"
+    },
+    "content": "\n# 错题分析\nSample reading analysis\n"
+  }
+]

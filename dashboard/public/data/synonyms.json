@@ -1,0 +1,35 @@
+{
+  "type": "synonym-master",
+  "total": 0,
+  "source": [
+    "writing",
+    "reading",
+    "listening"
+  ],
+  "rows": [
+    {
+      "question": "important",
+      "replacement": "significant",
+      "source": "writing",
+      "date": "2026-04-25"
+    },
+    {
+      "question": "important",
+      "replacement": "crucial",
+      "source": "writing",
+      "date": "2026-04-25"
+    },
+    {
+      "question": "big",
+      "replacement": "substantial",
+      "source": "reading",
+      "date": "2026-04-22"
+    },
+    {
+      "question": "decline",
+      "replacement": "deteriorate",
+      "source": "reading",
+      "date": "2026-04-22"
+    }
+  ]
+}

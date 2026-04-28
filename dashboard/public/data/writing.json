@@ -1,0 +1,68 @@
+[
+  {
+    "data": {
+      "type": "writing",
+      "date": "2026-04-20",
+      "task": "task2",
+      "question_type": "opinion",
+      "word_count": 280,
+      "scores": {
+        "tr": 5,
+        "cc": 5.5,
+        "lr": 5,
+        "gra": 5.5,
+        "overall": 5
+      },
+      "target": 6.5,
+      "errors": [
+        {
+          "category": "tr",
+          "description": "只回答了题目一半"
+        },
+        {
+          "category": "lr",
+          "description": "significant 重复 4 次"
+        }
+      ],
+      "improvements": [
+        "TR: 确保回答题目的每个部分",
+        "LR: 学习同义替换 significant → substantial"
+      ],
+      "_file": "2026-04-25-task2-001.md"
+    },
+    "content": "\n# 题目\nTest essay 1\n\n# 我的作文\nSample essay text 1\n"
+  },
+  {
+    "data": {
+      "type": "writing",
+      "date": "2026-04-25",
+      "task": "task2",
+      "question_type": "discussion",
+      "word_count": 310,
+      "scores": {
+        "tr": 5.5,
+        "cc": 6,
+        "lr": 5.5,
+        "gra": 6,
+        "overall": 5.5
+      },
+      "target": 6.5,
+      "errors": [
+        {
+          "category": "cc",
+          "description": "连接词使用机械"
+        },
+        {
+          "category": "lr",
+          "description": "important 重复 3 次"
+        }
+      ],
+      "improvements": [
+        "CC: 用更自然的衔接方式",
+        "LR: important → crucial / significant / vital"
+      ],
+      "_file": "2026-04-25-task2-002.md"
+    },
+    "content": "\n# 题目\nTest essay 2\n\n# 我的作文\nSample essay text 2\n"
+  }
+]

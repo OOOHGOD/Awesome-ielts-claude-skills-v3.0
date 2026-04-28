@@ -1,0 +1,26 @@
+{
+  "target": {
+    "overall": 7,
+    "listening": 7.5,
+    "reading": 7.5,
+    "writing": 6.5,
+    "speaking": 6.5
+  },
+  "exam": {
+    "date": "2026-08-16"
+  },
+  "level": {
+    "current": "intermediate",
+    "mock_scores": {
+      "listening": 6.5,
+      "reading": 7,
+      "writing": 5.5,
+      "speaking": 6
+    }
+  },
+  "preferences": {
+    "study_hours_per_day": 3,
+    "focus": "writing"
+  },
+  "days_left": 111
+}
