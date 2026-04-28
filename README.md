@@ -1,7 +1,15 @@
-# IELTS Claude Skills · v3.0
+# Awesome IELTS Claude Skills 
 
 > 一套跑在 Claude Code 上的雅思备考 AI 教练系统。
 > **数据持久化 + 8 个 Skill + React Dashboard 可视化。**
+
+## 🌟 效果演示
+
+**1. 终端交互 (CLI)** - 智能路由与进度追踪
+![CLI 交互演示](./images/cli-demo.png)
+
+**2. 数据可视化 (Dashboard)** - 科学量化你的备考趋势
+![Dashboard 演示](./images/dashboard-demo.png)
 
 ---
 
